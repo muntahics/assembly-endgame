@@ -139,6 +139,7 @@ button.alphabet-chip{
     height: 40px;
     border: 2px solid #D7D7D7;
     font-family: "Hanken Grotesk";
+    font-size: 18px;
     cursor: pointer;
     
 }
